@@ -1,6 +1,6 @@
 ## Introduction
 
-This script gives you the zone info key representing your device's time zone setting. 
+This script gives you the zone info key representing your device's time zone setting.
 
 The return value is an [IANA zone info key][1] (aka the Olson time zone database).
 
@@ -19,11 +19,11 @@ tz.name() # Returns the name of the time zone eg "Europe/Berlin"
 
 ## Use Case
 
-The script is useful if you do not want to disturb your users with questions about what time zone they are in. You can rely on this script to give you a key that is usable for server side datetime normalisations across time zones. 
+The script is useful if you do not want to disturb your users with questions about what time zone they are in. You can rely on this script to give you a key that is usable for server side datetime normalisations across time zones.
 
 ## Limitations
 
-This script does not do geo-location, nor does it care very much about historical time zones. 
+This script does not do geo-location, nor does it care very much about historical time zones.
 
 So if you are unhappy with the time zone "Europe/Berlin" when the user is in fact in "Europe/Stockholm" - this script is not for you. (They are both identical in modern time).
 
@@ -42,7 +42,7 @@ If you want to contribute to the project (perhaps fix a bug, or reflect a change
 ## Credits
 
 Thanks to
-  
+
   - [Josh Fraser][5] for the original idea
   - [Brian Donovan][6] for making jstz CommonJS compliant
   - [Ilya Sedlovsky][7] for help with namespacing
@@ -54,10 +54,10 @@ Other contributors:
 [1]: http://www.iana.org/time-zones
 [2]: http://pellepim.bitbucket.org/jstz/
 [3]: https://bitbucket.org/pellepim/jstimezonedetect/src
-[4]: https://github.com/gruntjs/grunt
+[4]: http://gruntjs.com/
 [5]: http://www.onlineaspect.com/about/
 [6]: https://bitbucket.org/eventualbuddha
 [7]: https://bitbucket.org/purebill
 [8]: https://bitbucket.org/gdavidson
 [9]: https://github.com/JordanMagnuson
-[10]: http://cdnjs.com
+[10]: http://cdnjs.com/libraries/jstimezonedetect/
