@@ -60,4 +60,4 @@ Other contributors:
 [7]: https://bitbucket.org/purebill
 [8]: https://bitbucket.org/gdavidson
 [9]: https://github.com/JordanMagnuson
-[10]: http://cdnjs.com
+[10]: http://cdnjs.com/libraries/jstimezonedetect/
