@@ -54,7 +54,7 @@ Other contributors:
 [1]: http://www.iana.org/time-zones
 [2]: http://pellepim.bitbucket.org/jstz/
 [3]: https://bitbucket.org/pellepim/jstimezonedetect/src
-[4]: https://github.com/gruntjs/grunt
+[4]: http://gruntjs.com/
 [5]: http://www.onlineaspect.com/about/
 [6]: https://bitbucket.org/eventualbuddha
 [7]: https://bitbucket.org/purebill
