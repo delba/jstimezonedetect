@@ -12,9 +12,10 @@ Since version 1.0.4 the [library is hosted on cdnjs.com][10]. I strongly recomme
 
 Invoke the script by calling
 
-    :::javascript
-        var tz = jstz.determine(); // Determines the time zone of the browser client
-        tz.name(); // Returns the name of the time zone eg "Europe/Berlin"
+```coffeescript
+tz = jstz.determine() # Determines the time zone of the browser client
+tz.name() # Returns the name of the time zone eg "Europe/Berlin"
+```
 
 ## Use Case
 
